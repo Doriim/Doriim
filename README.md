@@ -1,8 +1,12 @@
-[![](https://visitcount.itsvg.in/api?id=Doriim&icon=0&color=1)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=Doriim&icon=0&color=1)](https://visitcount.itsvg.in) -->
 ![](https://komarev.com/ghpvc/?username=Doriim&color=blue&style=flat&abbreviated=true)
 [![wakatime](https://wakatime.com/badge/user/e777282a-606b-4acb-bb01-dc1e480244fb.svg)](https://wakatime.com/@e777282a-606b-4acb-bb01-dc1e480244fb)
 # 💫 Hi, I'm Tyno: 
-🌱I’m currently learning React, Javascript, Nodejs<br>
+🌱I’m currently learning: 
+- ![Progress](https://progress-bar.dev/1/?title=React)
+- ![Progress](https://progress-bar.dev/52/?title=Javascript)
+- ![Progress](https://progress-bar.dev/80/?title=Nodejs)
+
 📱I'm interested in cross-platform development💻
 
 
