@@ -8,7 +8,7 @@
 
 🌱I’m currently learning: 
 - ![Progress](https://progress-bar.dev/1/?title=React)
-- ![Progress](https://progress-bar.dev/52/?title=Javascript)
+- ![Progress](https://progress-bar.dev/42/?title=Javascript)
 - ![Progress](https://progress-bar.dev/80/?title=Nodejs)
 
 ## 💻 Tech Stack:
