@@ -3,12 +3,13 @@
 [![wakatime](https://wakatime.com/badge/user/e777282a-606b-4acb-bb01-dc1e480244fb.svg)](https://wakatime.com/@e777282a-606b-4acb-bb01-dc1e480244fb)
 
 # 💫 Hi, I'm Tyno: 
+
+📱I'm interested in cross-platform development💻
+
 🌱I’m currently learning: 
 - ![Progress](https://progress-bar.dev/1/?title=React)
 - ![Progress](https://progress-bar.dev/52/?title=Javascript)
 - ![Progress](https://progress-bar.dev/80/?title=Nodejs)
-
-📱I'm interested in cross-platform development💻
 
 ## 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
