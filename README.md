@@ -1,7 +1,8 @@
 <!--[![](https://visitcount.itsvg.in/api?id=Doriim&icon=0&color=1)](https://visitcount.itsvg.in) -->
 
 ![](https://komarev.com/ghpvc/?username=Doriim&color=blue&style=flat&abbreviated=true)
-[![wakatime](https://wakatime.com/badge/user/e777282a-606b-4acb-bb01-dc1e480244fb.svg)](https://wakatime.com/@e777282a-606b-4acb-bb01-dc1e480244fb)
+![wakatime](https://wakatime.com/badge/user/e777282a-606b-4acb-bb01-dc1e480244fb.svg)
+
 # 💫 Hi, I'm Tyno:
 
 📱I'm interested in cross-platform development💻
