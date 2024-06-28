@@ -13,6 +13,10 @@
 - ![Progress](https://progress-bar.dev/42/?title=Javascript)
 - ![Progress](https://progress-bar.dev/1/?title=React)
 
+## 🏅Certificate:
+- ECDL
+- CCNA: Introduction to Networks (ITN)
+
 ## 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
