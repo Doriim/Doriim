@@ -15,7 +15,8 @@
 
 ## 🏅Certificate:
 - ECDL
-- CCNA: Introduction to Networks (ITN)
+- Cisco:
+  - CCNA: Introduction to Networks (ITN)
 
 ## 💻 Tech Stack:
 
