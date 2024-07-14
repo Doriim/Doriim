@@ -9,9 +9,9 @@
 
 🌱I’m currently learning:
 
-- ![Progress](https://progress-bar.dev/80/?title=Nodejs)
-- ![Progress](https://progress-bar.dev/42/?title=Javascript)
-- ![Progress](https://progress-bar.dev/1/?title=React)
+- [![Progress](https://progress-bar.dev/80/?title=Nodejs)](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
+- [![Progress](https://progress-bar.dev/42/?title=Javascript)](https://www.udemy.com/course/the-complete-javascript-course/)
+- [![Progress](https://progress-bar.dev/32/?title=React)](https://www.udemy.com/course/the-ultimate-react-course/)
 
 ## 🏅Certificate:
 - ECDL
