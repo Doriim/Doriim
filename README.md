@@ -8,18 +8,25 @@
 📱I'm interested in cross-platform development💻
 
 🌱I’m currently learning:
-
-- [![Progress](https://progress-bar.dev/80/?title=Nodejs)](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
-- [![Progress](https://progress-bar.dev/42/?title=Javascript)](https://www.udemy.com/course/the-complete-javascript-course/)
-- [![Progress](https://progress-bar.dev/32/?title=React)](https://www.udemy.com/course/the-ultimate-react-course/)
-
+- React
+<!-- - [![Progress](https://progress-bar.dev/80/?title=Nodejs)](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/)
+#- [![Progress](https://progress-bar.dev/42/?title=Javascript)](https://www.udemy.com/course/the-complete-javascript-course/)
+#- [![Progress](https://progress-bar.dev/32/?title=React)](https://www.udemy.com/course/the-ultimate-react-course/)
+-->
 ## 🏅Certificate:
 - ECDL
 - Cisco:
   - CCNA: Introduction to Networks (ITN)
 
 ## 💻 Tech Stack:
+![My Skills](https://skillicons.dev/icons?i=js,ts,cs,css,html&theme=light)
 
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,express,npm,nodejs&theme=light)
+
+![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)
+
+![My Skills](https://skillicons.dev/icons?i=notion,figma,github&theme=light)
+<!--
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +49,7 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+-->
 ## 💰 You can help me by Donating
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Doriim)
