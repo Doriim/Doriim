@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Doriim&color=blue&style=flat&abbreviated=true)
 [![wakatime](https://wakatime.com/badge/user/e777282a-606b-4acb-bb01-dc1e480244fb.svg)](https://wakatime.com/@e777282a-606b-4acb-bb01-dc1e480244fb)
-![](https://img.shields.io/endpoint?url=https://waka.spsostroviot.fun/api/compat/shields/v1/doriim/interval:all_time&label=Wakapi&color=blue)
+![](https://img.shields.io/endpoint?url=https://waka.tyno.dev/api/compat/shields/v1/doriim/interval:all_time&label=All%20time&color=blue)
 # 💫 Hi, I'm Tyno:
 
 📱I'm interested in cross-platform development💻
