@@ -21,7 +21,9 @@
 ## ⚙️ Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=js,ts,cs,css,html&theme=light)
 
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,express,npm,nodejs&theme=light)
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,express,nodejs&theme=light)
+
+![My Skills](https://skillicons.dev/icons?i=git,npm,pnpm,docker,tailwind&theme=light)
 
 ![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)
 
